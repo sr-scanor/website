@@ -1,0 +1,92 @@
+* {
+box-sizing: border-box;
+padding: 0;
+background-color: RGB(240,248,255);
+border-top-width: 2px;
+border-bottom-width: 1px;
+}
+li, a, button {
+font-family: 'Roboto Slab', serif;
+font-weight: 500;
+font-size: 16px;
+color: black;
+cursor: pointer;
+
+}
+
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0;
+background: RGB(240,248,255);
+border-bottom-style: solid;
+
+}
+img {
+width: 190px;
+height: 70px;
+
+}
+
+
+.logo {
+cursor: pointer;
+}
+
+
+.nav_links {
+list-style: none;
+background-color: ##F0F8FF;
+border-radius: 2em;
+border: none;
+padding-bottom: 0px;
+background: transparent;
+margin-left: 240px;
+}
+
+.nav_links li {
+display: inline-block;
+padding: 0px 7px;
+}
+
+.ct {
+width: 80px;
+height: 22px;
+background: transparent;
+border-radius: 2em;
+border: none;
+
+
+
+}
+.ctt 
+
+
+}
+
+body {
+padding: 6px;
+text-transform: capitalize;
+
+}
+h1 {
+font-size: 20px;
+text-transform: uppercase;
+animation: flicker 1.5s infinite alternate;
+
+}
+p {
+width: 500px;
+
+}
+
+html {
+
+
+}
+
+
+label {display: block;}
+  input, button {padding: 2px;}
+  input {width: 50%;}
